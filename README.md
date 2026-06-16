@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0135-candy) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3612-process-string-with-special-operations-i) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
