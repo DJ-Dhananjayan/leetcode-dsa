@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0125-valid-palindrome) |
+| [3612-process-string-with-special-operations-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
