@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0135-candy) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
