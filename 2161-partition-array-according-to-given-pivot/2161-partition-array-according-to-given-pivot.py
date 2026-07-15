@@ -10,5 +10,4 @@ class Solution:
                 b.append(i)
             else :
                 p.append(i)
-        ans=s+p+b
-        return ans
+        return s+p+b
