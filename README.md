@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0292-nim-game) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
