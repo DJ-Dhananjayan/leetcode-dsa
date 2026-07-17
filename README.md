@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0292-nim-game) |
+| [0343-integer-break](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0441-arranging-coins) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0055-jump-game) |
+| [0343-integer-break](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0343-integer-break) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
