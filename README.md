@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0441-arranging-coins) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
