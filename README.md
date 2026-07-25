@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0274-h-index) |
 | [0575-distribute-candies](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0575-distribute-candies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1833-maximum-ice-cream-bars](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0135-candy) |
+| [1833-maximum-ice-cream-bars](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0274-h-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1833-maximum-ice-cream-bars](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0274-h-index) |
+| [1833-maximum-ice-cream-bars](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 ## Breadth-First Search
 |  |
 | ------- |
