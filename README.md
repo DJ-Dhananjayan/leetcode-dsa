@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0412-fizz-buzz](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0135-candy) |
 | [1833-maximum-ice-cream-bars](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0441-arranging-coins) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
