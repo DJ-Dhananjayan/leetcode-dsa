@@ -18,5 +18,4 @@ class Solution:
         res=[[]]
         for i in nums:
             res+=[n+[i] for n in res]
-            print(res)
         return res
