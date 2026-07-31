@@ -1,5 +1,6 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
+        """
         ans = []
 
         def backtrack(index,p):
@@ -12,3 +13,10 @@ class Solution:
 
         backtrack(0, [])
         return ans
+        """
+
+        res=[[]]
+        for i in nums:
+            res+=[n+[i] for n in res]
+            print(res)
+        return res
