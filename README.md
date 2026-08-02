@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0056-merge-intervals) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0078-subsets) |
