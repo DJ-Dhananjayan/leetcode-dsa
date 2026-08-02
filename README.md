@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0274-h-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0078-subsets) |
 ## Math
