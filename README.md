@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0343-integer-break) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0055-jump-game) |
+| [0279-perfect-squares](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1406-stone-game-iii) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0127-word-ladder) |
+| [0279-perfect-squares](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0279-perfect-squares) |
 ## Number Theory
 |  |
 | ------- |
@@ -213,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
