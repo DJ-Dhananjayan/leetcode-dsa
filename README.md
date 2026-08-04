@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0412-fizz-buzz](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0412-fizz-buzz) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0135-candy) |
 | [1833-maximum-ice-cream-bars](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0055-jump-game) |
 | [0279-perfect-squares](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0343-integer-break) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
