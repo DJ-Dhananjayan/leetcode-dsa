@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2965-find-missing-and-repeated-values](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3731-find-missing-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1406-stone-game-iii) |
+| [2965-find-missing-and-repeated-values](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -157,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0575-distribute-candies](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0575-distribute-candies) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2965-find-missing-and-repeated-values](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
