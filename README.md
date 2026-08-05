@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0575-distribute-candies](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1406-stone-game-iii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1833-maximum-ice-cream-bars](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0274-h-index) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1833-maximum-ice-cream-bars](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
