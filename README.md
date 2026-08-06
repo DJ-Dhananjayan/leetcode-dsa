@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0078-subsets) |
+| [0357-count-numbers-with-unique-digits](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0357-count-numbers-with-unique-digits) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0492-construct-the-rectangle) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0055-jump-game) |
 | [0279-perfect-squares](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
