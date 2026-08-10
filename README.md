@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0127-word-ladder) |
+| [0290-word-pattern](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0412-fizz-buzz) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0127-word-ladder) |
+| [0290-word-pattern](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0575-distribute-candies) |
