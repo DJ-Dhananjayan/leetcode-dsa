@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
+| [0463-island-perimeter](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0463-island-perimeter) |
 | [0575-distribute-candies](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0463-island-perimeter) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Simulation
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0463-island-perimeter](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0463-island-perimeter) |
 | [1219-path-with-maximum-gold](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1219-path-with-maximum-gold) |
 | [2965-find-missing-and-repeated-values](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0279-perfect-squares) |
+| [0463-island-perimeter](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0463-island-perimeter) |
 ## Number Theory
 |  |
 | ------- |
