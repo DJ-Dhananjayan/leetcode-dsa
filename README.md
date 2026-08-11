@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1219-path-with-maximum-gold](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1219-path-with-maximum-gold) |
 | [1406-stone-game-iii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1833-maximum-ice-cream-bars](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0078-subsets) |
 | [0357-count-numbers-with-unique-digits](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0357-count-numbers-with-unique-digits) |
+| [1219-path-with-maximum-gold](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1219-path-with-maximum-gold) |
 ## Math
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [1219-path-with-maximum-gold](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1219-path-with-maximum-gold) |
 | [2965-find-missing-and-repeated-values](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
