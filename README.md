@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0500-keyboard-row) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0463-island-perimeter](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0463-island-perimeter) |
+| [0500-keyboard-row](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0575-distribute-candies) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/2965-find-missing-and-repeated-values) |
