@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0463-island-perimeter](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0274-h-index) |
+| [0506-relative-ranks](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1833-maximum-ice-cream-bars](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/1833-maximum-ice-cream-bars) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/DJ-Dhananjayan/leetcode-dsa/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
